@@ -3,14 +3,18 @@
 Welcome to my internship project repository under **CodeAlpha**! This README provides a summary of the Python-based mini-projects I developed during my internship, showcasing my understanding of core programming concepts and problem-solving skills.
 
 
+
 ## 🔤 Project 1: Word Guessing Game (Hangman Style)
+
 
 ### 🎯 Task Objective
 To design a console-based word guessing game where users try to guess the hidden word letter by letter within a limited number of attempts.
 
+
 ### 🛠️ Tools and Technologies Used
  **Programming Language**: Python
  **Library**: `random` (standard library)
+
 
 ### ✨ Features
 - Random selection of words from a predefined list
@@ -23,11 +27,14 @@ To design a console-based word guessing game where users try to guess the hidden
 
 ## 💬 Project 2: Simple Rule-Based Chatbot
 
+
 ### 🎯 Task Objective
 To create a basic chatbot that interacts with the user through fixed responses based on keyword recognition.
 
+
 ### 🛠️ Tools and Technologies Used
 - **Programming Language**: Python
+
 
 ### ✨ Features
 - Greets the user and responds to simple queries:
