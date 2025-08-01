@@ -37,7 +37,3 @@ To create a basic chatbot that interacts with the user through fixed responses b
 - Responds with a default message for unknown inputs
 - Interactive loop until the user types "bye"
 - Can be expanded with more responses
-
-
-🔗 **Developed by:** _[Your Name]_  
-🎓 **Intern at:** CodeAl
